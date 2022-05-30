@@ -7,7 +7,15 @@ print("TUPLE TWO:",t2)
 print("TUPLE THREE:",t4)
 print("TUPLE FOUR:",t5)
 
-print("1.Datatype of a tuple \n2.Length of the tuple \n3.To repeat the tuple \n4.To get element of the index \n5.Unpacking the elements \n6.concatenation of two tuples \n7.Removing an element from fist \n8.Excluding some characters from last \n9.Reversing tuple \n10.fetching elements of tuple \n11.fetching a portion from string tuple \n12.To delete a tuple \n13.Maximum of tuple \n14.Minimum of tuple \n15.sum of tuple \n16.sorting a tuple \n17.reverse sorting a tuple \n18.To convert elements \n19.Reverse indexing")
+print("1.Datatype of a tuple \n2.Length of the tuple
+ \n3.To repeat the tuple \n4.To get element of the index
+ \n5.Unpacking the elements \n6.concatenation of two tuples
+ \n7.Removing an element from fist \n8.Excluding some characters from last
+ \n9.Reversing tuple \n10.fetching elements of tuple 
+\n11.fetching a portion from string tuple \n12.To delete a tuple
+ \n13.Maximum of tuple \n14.Minimum of tuple \n15.sum of tuple
+ \n16.sorting a tuple \n17.reverse sorting a tuple 
+\n18.To convert elements \n19.Reverse indexing")
 n=int(input("enter your choice:"))
 
 if(n==1):
